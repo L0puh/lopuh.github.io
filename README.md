@@ -1,1 +1,1 @@
-# lopuh.github.io
+# a collection of my projects
