@@ -1,7 +1,0 @@
-theme: jekyll-theme-minimal
-title: Lopuh's homepage
-description: project updates
-baseurl: ""  
-url: "https://l0puh.github.io"
-theme_config:
-  dark_mode: true
